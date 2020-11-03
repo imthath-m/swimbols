@@ -11,7 +11,7 @@ Some prominent features:
 - Change symbol anytime and see live preview with applied modifiers.
 - Copy Swift code to use in your SwiftUI and UIKit projects.
 
-Swimbols iOS beta is [available via TestFlight](https://testflight.apple.com/join/cjtpnqtG). Swimbols for Mac will be launched alongside macOS 11. 
+Swimbols is available for iOS on the [App Store](https://apps.apple.com/app/id1525226399?platform=ipad). Swimbols for Mac will be launched alongside macOS 11. 
 
 Read more about the idea behind the app and the problems it solves [here](https://medium.com/@imthathullah/re-imagining-sf-symbols-into-xcode-c2ebf92550d9?source=friends_link&sk=37af3872b7c89945bc67c9164c830340). 
 
